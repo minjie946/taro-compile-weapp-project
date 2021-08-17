@@ -2,7 +2,8 @@
   "name": "taro-compile-weapp-project",
   "version": "0.0.1",
   "description": "Taro 编译成小程序可以使用不同的项目配置文件",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "type": "module",
   "scripts": {
     "build": "npm run clean && npm run prod",
     "dev": "tsc -w",
