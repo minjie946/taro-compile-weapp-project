@@ -1,6 +1,6 @@
 {
   "name": "taro-compile-weapp-project",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Taro 编译成小程序可以使用不同的项目配置文件",
   "main": "lib/index.js",
   "type": "module",
